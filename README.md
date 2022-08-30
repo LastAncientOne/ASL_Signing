@@ -1,3 +1,6 @@
 # ASL Signing
 
-Convert images to words
+Convert images to words  
+
+## Authors  
+### * Tin Hang
